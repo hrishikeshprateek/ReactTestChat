@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "e-commerce-thundersharp"
+  },
+  "targets": {
+    "e-commerce-thundersharp": {
+      "hosting": {
+        "e-commerce-thundersharp": [
+          "hosting-web"
+        ]
+      }
+    }
+  }
+}
